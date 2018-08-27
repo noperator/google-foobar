@@ -4,7 +4,7 @@ I'm uploading my solutions for educational purposes only. If you're referencing 
 
 # Google foo.bar
 
-foo.bar is a secret web tool used by Google to recruit new employees based on what they search for online. You can read more about the challenge on [IBTimes](https://www.ibtimes.co.uk/google-foobar-how-searching-web-earned-software-graduate-job-google-1517284), [Medium](https://medium.com/@avery_1242/my-experience-with-google-foobar-tips-for-tackling-googles-legendary-coding-challenge-dbc20a054e4e), and [Quora](https://www.quora.com/What-is-Google%E2%80%99s-Foobar). I've triggered the prompt twice by searching for `python list comprehension` and `use after free`. Each time, the page split open to reveal the message "You're speaking our language. Up for a challenge?"
+foo.bar is a secret web tool used by Google to recruit new employees based on what they search for online. You can read more about the challenge on [IBTimes](https://www.ibtimes.co.uk/google-foobar-how-searching-web-earned-software-graduate-job-google-1517284), [Medium](https://medium.com/@avery_1242/my-experience-with-google-foobar-tips-for-tackling-googles-legendary-coding-challenge-dbc20a054e4e), and [Quora](https://www.quora.com/What-is-Google%E2%80%99s-Foobar). I've triggered the prompt twice by searching for `python list comprehension` and `use after free`. Each time, the page split open to reveal the message, "You're speaking our language. Up for a challenge?"
 
 <img src="img/speaking_our_language.png" alt="drawing" width="900"/>
 
